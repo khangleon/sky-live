@@ -1,0 +1,15 @@
+{
+  "name": "sky-live",
+  "version": "1.0.0",
+  "description": "simple",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "KhangLee",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.3"
+  }
+}
